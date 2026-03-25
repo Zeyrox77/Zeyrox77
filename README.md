@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="http://zeyrox.dpdns.org">
-  <img src="http://zeyrox.dpdns.org/banner.svg" alt="Zeyrox Banner" width="800" />
+  <img src="http://zeyrox.dpdns.org/banner.svg?v=2" alt="Zeyrox Banner" width="800" />
 </a>
 
 <br><br>
