@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zeyrox77/Zeyrox77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://zeyrox.dpdns.org">
+  <img src="http://zeyrox.dpdns.org/banner.svg" alt="Zeyrox Banner" width="800" />
+</a>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there, I'm Zeyrox! 👋
+
+I'm just hanging out on GitHub, exploring things, and working on a few personal projects. 
+
+🌐 **Check out my space:** [zeyrox.dpdns.org](http://zeyrox.dpdns.org)
+
+<br>
+
+[![Zeyrox77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Zeyrox77)
+
+</div>
