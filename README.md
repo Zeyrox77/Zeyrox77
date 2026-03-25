@@ -21,7 +21,9 @@ I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 <div align="center">
   <a href="https://github.com/Zeyrox77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" width="45.3%" />
-    <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
   </a>
+</div>
+
 </div>
