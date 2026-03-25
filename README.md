@@ -1,29 +1,31 @@
 <div align="center">
-
 <a href="https://zeyrox.dpdns.org">
   <img src="https://zeyrox.dpdns.org/banner.svg?v=3" alt="Zeyrox Banner" width="800" />
 </a>
-
 <br><br>
 
 ### Hey there, I'm Zeyrox! 👋
-
-I'm just hanging out on GitHub, exploring things, and working on a few projects. 
+I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 🌐 **Check out my space:** [zeyrox.dpdns.org](https://zeyrox.dpdns.org)
 
 <sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
 
-<br><br>
+<br>
 
 **📊 GitHub Stats & Streak:**
-<br><br>
 
-<div align="center">
-  <a href="https://github.com/Zeyrox77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-  </a>
-</div>
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
