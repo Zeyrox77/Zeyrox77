@@ -5,7 +5,6 @@
 </a>
 
 <br><br>
-
 ### Hey there, I'm Zeyrox! 👋
 
 I'm just hanging out on GitHub, exploring things, and working on a few personal projects. 
