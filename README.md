@@ -14,6 +14,8 @@ I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 <sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
 
+<br><br>
+
 **📊 GitHub Stats & Streak:**
 <br><br>
 
