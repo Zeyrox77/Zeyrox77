@@ -12,6 +12,8 @@ I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 🌐 **Check out my space:** [zeyrox.dpdns.org](https://zeyrox.dpdns.org)
 
+<sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
+
 <br>
 
 [![Zeyrox77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Zeyrox77)
