@@ -17,15 +17,8 @@ I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" width="495" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" width="495" alt="GitHub Streak" />
 
 </div>
