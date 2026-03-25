@@ -1,24 +1,31 @@
 <div align="center">
-<a href="https://zeyrox.dpdns.org">
-  <img src="https://zeyrox.dpdns.org/banner.svg?v=3" alt="Zeyrox Banner" width="800" />
-</a>
-<br><br>
 
-### Hey there, I'm Zeyrox! 👋
-I'm just hanging out on GitHub, exploring things, and working on a few projects.
+  <a href="https://zeyrox.dpdns.org">
+    <img src="https://zeyrox.dpdns.org/banner.svg?v=3" alt="Zeyrox Banner" width="100%" style="max-width: 800px;" />
+  </a>
+  
+  <br><br>
 
-🌐 **Check out my space:** [zeyrox.dpdns.org](https://zeyrox.dpdns.org)
+  <h2>Hey there, I'm Zeyrox! 👋</h2>
+  <p>
+    <i>I'm just hanging out on GitHub, exploring things, and working on a few projects.</i>
+  </p>
 
-<sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
+  <p>
+    🌐 <b>Check out my space:</b> <a href="https://zeyrox.dpdns.org">zeyrox.dpdns.org</a><br>
+    <sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
+  </p>
 
-<br>
+  <br>
 
-**📊 GitHub Stats & Streak:**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" width="495" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" width="495" alt="GitHub Streak" />
+  <h3>📊 GitHub Stats & Streak</h3>
+  <p>
+    <a href="https://github.com/Zeyrox77">
+      <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Zeyrox77">
+      <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+    </a>
+  </p>
 
 </div>
