@@ -14,8 +14,10 @@ I'm just hanging out on GitHub, exploring things, and working on a few projects.
 
 <sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
 
-<br>
+**📊 GitHub Stats & Streak:**
+<br><br>
 
-[![Zeyrox77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Zeyrox77)
-
-</div>
+<a href="https://github.com/Zeyrox77">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" alt="Zeyrox77's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
