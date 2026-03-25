@@ -12,7 +12,10 @@
   </p>
 
   <p>
-    🌐 <b>Check out my space:</b> <a href="https://zeyrox.dpdns.org">zeyrox.dpdns.org</a><br>
+    <a href="https://zeyrox.dpdns.org">
+      <img src="https://img.shields.io/badge/Check_out_my_space-zeyrox.dpdns.org-7aa2f7?style=for-the-badge" alt="Website Badge" />
+    </a>
+    <br>
     <sub>Domain powered by <a href="https://github.com/DigitalPlatDev/FreeDomain">DigitalPlat Domain</a></sub>
   </p>
 
