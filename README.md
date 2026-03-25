@@ -24,7 +24,7 @@
   <h3>📊 GitHub Stats & Streak</h3>
   <p>
     <a href="https://github.com/Zeyrox77">
-      <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="195" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Zeyrox77">
       <img src="https://streak-stats.demolab.com/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
