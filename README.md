@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Zeyrox! 👋
 
-I'm just hanging out on GitHub, exploring things, and working on a few personal projects. 
+I'm just hanging out on GitHub, exploring things, and working on a few projects. 
 
 🌐 **Check out my space:** [zeyrox.dpdns.org](http://zeyrox.dpdns.org)
 
