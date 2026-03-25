@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="http://zeyrox.dpdns.org">
-  <img src="http://zeyrox.dpdns.org/banner.svg?v=3" alt="Zeyrox Banner" width="800" />
+<a href="https://zeyrox.dpdns.org">
+  <img src="https://zeyrox.dpdns.org/banner.svg?v=3" alt="Zeyrox Banner" width="800" />
 </a>
 
 <br><br>
@@ -10,7 +10,7 @@
 
 I'm just hanging out on GitHub, exploring things, and working on a few projects. 
 
-🌐 **Check out my space:** [zeyrox.dpdns.org](http://zeyrox.dpdns.org)
+🌐 **Check out my space:** [zeyrox.dpdns.org](https://zeyrox.dpdns.org)
 
 <br>
 
