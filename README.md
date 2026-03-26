@@ -21,7 +21,7 @@
 
   <br>
 
-  <h3>📊 GitHub Stats & Streak</h3>
+<h3>📊 GitHub Stats & Streak</h3>
   <p>
     <a href="https://github.com/Zeyrox77">
       <img src="https://stats.zeyrox.dpdns.org/api?username=Zeyrox77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="195" alt="GitHub Stats" />
@@ -29,6 +29,13 @@
     <a href="https://github.com/Zeyrox77">
       <img src="https://streak.zeyrox.dpdns.org/?user=Zeyrox77&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
     </a>
+  </p>
+
+  <p align="center">
+    <sub>
+      Stats by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> 
+      & <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>
+    </sub>
   </p>
 
 </div>
